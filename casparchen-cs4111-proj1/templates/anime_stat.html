@@ -1,0 +1,48 @@
+<html>
+  <style>
+    body{
+      font-size: 13pt;
+      font-family: arial;
+    }
+  </style>
+
+<body>
+  <h1>Search For Animes</h1>
+
+  <form method="post" action="anime_stat_search_result">
+
+  <h2> Best Animes: </h2>
+  <p> Anime with highest score: {{highest_score[0]}} with score = {{highest_score[1]}} </p>
+  <p> Anime with largest number of subscriptions: {{largest_sub[0]}} subscribed by {{largest_sub[1]}} </p>
+  <p> Anime most frequently viewed: {{largest_view[0]}} viewed by {{largest_view[1]}}
+  
+  <br>
+  
+  <h2> Search Animes By Popularity </h2>
+
+  <p>Anime Score: Higher than <input type="number" name="low_score" min = 0.0 max = 10.0 step = 0.1>   </p>
+
+  <p>Anime Subscription Level: 
+    <select name = 'sub_level'>
+      <option value='500000'>500k or above </option>
+      <option value='100000'>100k or above </option>
+      <option value='50000'>50k or above</option>
+      <option value='0'>0 or above</option>
+    </select>
+
+  <p>Anime Number-of-Viewed Level:
+    <select name = 'view_level'>
+      <option value='50000'>50k or above </option>
+      <option value='10000'>10k or above </option>
+      <option value='5000'>5k or above</option>
+      <option value='0'>0 or above</option>
+    </select>
+
+
+    <p> <button type="submit">Search</button></p> <input type="reset">  </p>
+
+    <p> <a href='/'>Back to Main Page </a></p>
+
+</form>
+</body>
+</html>

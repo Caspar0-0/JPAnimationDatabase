@@ -1,0 +1,501 @@
+,Unnamed: 0,StateAbbr,StateDesc,City
+1,56,AL,Alabama,Birmingham
+2,2850,AL,Alabama,Hoover
+3,3712,AL,Alabama,Huntsville
+4,5548,AL,Alabama,Mobile
+5,7778,AL,Alabama,Montgomery
+6,9541,AL,Alabama,Tuscaloosa
+7,10649,AK,Alaska,Anchorage
+8,12245,AZ,Arizona,Avondale
+9,12944,AZ,Arizona,Chandler
+10,14752,AZ,Arizona,Gilbert
+11,16091,AZ,Arizona,Glendale
+12,17897,AZ,Arizona,Mesa
+13,21425,AZ,Arizona,Peoria
+14,22838,AZ,Arizona,Phoenix
+15,32935,AZ,Arizona,Scottsdale
+16,34734,AZ,Arizona,Surprise
+17,35696,AZ,Arizona,Tempe
+18,36843,AZ,Arizona,Tucson
+19,40662,AZ,Arizona,Yuma
+20,41923,AR,Arkansas,Fayetteville
+21,42450,AR,Arkansas,Fort Smith
+22,43094,AR,Arkansas,Jonesboro
+23,43531,AR,Arkansas,Little Rock
+24,45074,AR,Arkansas,Springdale
+25,45602,CA,California,Alameda
+26,46106,CA,California,Alhambra
+27,46722,CA,California,Anaheim
+28,48955,CA,California,Antioch
+29,49571,CA,California,Apple Valley
+30,49991,CA,California,Bakersfield
+31,52271,CA,California,Baldwin Park
+32,52873,CA,California,Bellflower
+33,53433,CA,California,Berkeley
+34,54413,CA,California,Buena Park
+35,54806,CA,California,Burbank
+36,55673,CA,California,Carlsbad
+37,56311,CA,California,Carson
+38,56926,CA,California,Chico
+39,57649,CA,California,Chino
+40,58209,CA,California,Chino Hills
+41,58601,CA,California,Chula Vista
+42,59958,CA,California,Citrus Heights
+43,60432,CA,California,Clovis
+44,61399,CA,California,Compton
+45,62265,CA,California,Concord
+46,63159,CA,California,Corona
+47,64195,CA,California,Costa Mesa
+48,64973,CA,California,Daly City
+49,65589,CA,California,Downey
+50,66258,CA,California,El Cajon
+51,67098,CA,California,Elk Grove
+52,67938,CA,California,El Monte
+53,68862,CA,California,Escondido
+54,69245,CA,California,Fairfield
+55,70702,CA,California,Folsom
+56,71233,CA,California,Fontana
+57,72269,CA,California,Fremont
+58,73529,CA,California,Fresno
+59,77107,CA,California,Fullerton
+60,78086,CA,California,Garden Grove
+61,79357,CA,California,Glendale
+62,80601,CA,California,Hawthorne
+63,81323,CA,California,Hayward
+64,82442,CA,California,Hemet
+65,83167,CA,California,Hesperia
+66,83511,CA,California,Lancaster
+67,83618,CA,California,Norwalk
+68,83639,CA,California,Orange
+69,83699,CA,California,Huntington Beach
+70,84684,CA,California,Indio
+71,85712,CA,California,Inglewood
+72,86654,CA,California,Irvine
+73,87744,CA,California,Lake Forest
+74,88248,CA,California,Lakewood
+75,89840,CA,California,Livermore
+76,90430,CA,California,Long Beach
+77,93485,CA,California,Los Angeles
+78,120706,CA,California,Lynwood
+79,121040,CA,California,Manteca
+80,121436,CA,California,Menifee
+81,123305,CA,California,Merced
+82,123920,CA,California,Milpitas
+83,124444,CA,California,Mission Viejo
+84,125142,CA,California,Modesto
+85,126536,CA,California,Moreno Valley
+86,127802,CA,California,Mountain View
+87,127845,CA,California,Murrieta
+88,129020,CA,California,Napa
+89,129743,CA,California,Newport Beach
+90,131058,CA,California,Oakland
+91,134274,CA,California,Oceanside
+92,135267,CA,California,Ontario
+93,137432,CA,California,Oxnard
+94,138580,CA,California,Palmdale
+95,139722,CA,California,Pasadena
+96,140814,CA,California,Perris
+97,141177,CA,California,Pleasanton
+98,141625,CA,California,Pomona
+99,142600,CA,California,Rancho Cucamonga
+100,142866,CA,California,Redding
+101,144361,CA,California,Redlands
+102,144770,CA,California,Redondo Beach
+103,144899,CA,California,Redwood City
+104,145954,CA,California,Rialto
+105,146822,CA,California,Richmond
+106,147690,CA,California,Riverside
+107,149761,CA,California,Roseville
+108,150703,CA,California,Sacramento
+109,153969,CA,California,Salinas
+110,155035,CA,California,San Bernardino
+111,155618,CA,California,San Diego
+112,156656,CA,California,San Buenaventura (Ventura)
+113,165746,CA,California,San Francisco
+114,171095,CA,California,San Jose
+115,177406,CA,California,San Leandro
+116,178057,CA,California,San Marcos
+117,178617,CA,California,San Mateo
+118,179401,CA,California,San Ramon
+119,179487,CA,California,Santa Ana
+120,181608,CA,California,Santa Barbara
+121,182397,CA,California,Santa Clara
+122,183149,CA,California,Santa Clarita
+123,184556,CA,California,Santa Maria
+124,185153,CA,California,Santa Monica
+125,185741,CA,California,Santa Rosa
+126,186769,CA,California,Simi Valley
+127,187639,CA,California,South Gate
+128,188255,CA,California,Stockton
+129,190315,CA,California,Sunnyvale
+130,191233,CA,California,Temecula
+131,191905,CA,California,Thousand Oaks
+132,192793,CA,California,Torrance
+133,193689,CA,California,Tracy
+134,194165,CA,California,Turlock
+135,194641,CA,California,Tustin
+136,195304,CA,California,Union City
+137,195729,CA,California,Upland
+138,196340,CA,California,Vacaville
+139,196982,CA,California,Vallejo
+140,197962,CA,California,Victorville
+141,198576,CA,California,Visalia
+142,199244,CA,California,Vista
+143,200056,CA,California,West Covina
+144,201008,CA,California,Westminster
+145,201680,CA,California,Whittier
+146,202380,CO,Colorado,Arvada
+147,203388,CO,Colorado,Aurora
+148,205880,CO,Colorado,Boulder
+149,206719,CO,Colorado,Centennial
+150,207853,CO,Colorado,Colorado Springs
+151,208251,CO,Colorado,Denver
+152,214902,CO,Colorado,Fort Collins
+153,216248,CO,Colorado,Greeley
+154,217352,CO,Colorado,Lakewood
+155,218637,CO,Colorado,Longmont
+156,219276,CO,Colorado,Loveland
+157,219780,CO,Colorado,Pueblo
+158,220922,CO,Colorado,Thornton
+159,221924,CO,Colorado,Westminster
+160,222929,CT,Connecticut,Bridgeport
+161,224046,CT,Connecticut,Danbury
+162,224525,CT,Connecticut,Hartford
+163,225699,CT,Connecticut,New Britain
+164,226340,CT,Connecticut,New Haven
+165,227261,CT,Connecticut,Norwalk
+166,227914,CT,Connecticut,Stamford
+167,228692,CT,Connecticut,Waterbury
+168,229504,DE,Delaware,Wilmington
+169,230260,DC,District of Columbia,Washington
+170,230464,FL,Florida,Boca Raton
+171,236132,FL,Florida,Boynton Beach
+172,236860,FL,Florida,Cape Coral
+173,237756,FL,Florida,Clearwater
+174,238820,FL,Florida,Coral Springs
+175,239601,FL,Florida,Davie
+176,240276,FL,Florida,Deerfield Beach
+177,240808,FL,Florida,Deltona
+178,241368,FL,Florida,Fort Lauderdale
+179,242836,FL,Florida,Gainesville
+180,243987,FL,Florida,Hialeah
+181,245242,FL,Florida,Hollywood
+182,246278,FL,Florida,Jacksonville
+183,249292,HI,Hawaii,Honolulu
+184,250790,FL,Florida,Lakeland
+185,251915,FL,Florida,Largo
+186,253238,FL,Florida,Lauderhill
+187,253714,FL,Florida,Melbourne
+188,254465,FL,Florida,Miami
+189,257430,FL,Florida,Miami Beach
+190,258293,FL,Florida,Miami Gardens
+191,259018,FL,Florida,Miramar
+192,259522,FL,Florida,Orlando
+193,261814,FL,Florida,Palm Bay
+194,262318,FL,Florida,Palm Coast
+195,262821,FL,Florida,Pembroke Pines
+196,263710,FL,Florida,Plantation
+197,264332,FL,Florida,Pompano Beach
+198,265116,FL,Florida,Port St. Lucie
+199,265787,FL,Florida,St. Petersburg
+200,267799,FL,Florida,Sunrise
+201,268475,FL,Florida,Tallahassee
+202,270200,FL,Florida,Tampa
+203,273380,FL,Florida,West Palm Beach
+204,274351,GA,Georgia,Albany
+205,275107,GA,Georgia,Athens
+206,276003,GA,Georgia,Atlanta
+207,279725,GA,Georgia,Augusta
+208,281097,GA,Georgia,Columbus
+209,282637,GA,Georgia,Johns Creek
+210,283085,GA,Georgia,Macon
+211,284146,GA,Georgia,Roswell
+212,284706,GA,Georgia,Sandy Springs
+213,285459,GA,Georgia,Savannah
+214,287014,GA,Georgia,Warner Robins
+215,294322,ID,Idaho,Boise City
+216,295638,ID,Idaho,Meridian
+217,295854,ID,Idaho,Nampa
+218,296392,IL,Illinois,Arlington Heights
+219,296643,IL,Illinois,Aurora
+220,298318,IL,Illinois,Bloomington
+221,299046,IL,Illinois,Bolingbrook
+222,299578,IL,Illinois,Champaign
+223,300245,IL,Illinois,Chicago
+224,322614,IL,Illinois,Cicero
+225,323118,IL,Illinois,Decatur
+226,323986,IL,Illinois,Elgin
+227,324824,IL,Illinois,Evanston
+228,325384,IL,Illinois,Joliet
+229,326725,IL,Illinois,Naperville
+230,327814,IL,Illinois,Palatine
+231,328290,IL,Illinois,Peoria
+232,329382,IL,Illinois,Rockford
+233,330997,IL,Illinois,Schaumburg
+234,331778,IL,Illinois,Springfield
+235,332098,IL,Illinois,Waukegan
+236,333850,IN,Indiana,Bloomington
+237,334516,IN,Indiana,Carmel
+238,334988,IN,Indiana,Evansville
+239,336271,IN,Indiana,Fishers
+240,336579,IN,Indiana,Fort Wayne
+241,338871,IN,Indiana,Gary
+242,339795,IN,Indiana,Hammond
+243,340383,IN,Indiana,Indianapolis
+244,346273,IN,Indiana,Lafayette
+245,346594,IN,Indiana,Muncie
+246,347821,IN,Indiana,South Bend
+247,349131,IA,Iowa,Cedar Rapids
+248,350242,IA,Iowa,Davenport
+249,351244,IA,Iowa,Des Moines
+250,352977,IA,Iowa,Iowa City
+251,353509,IA,Iowa,Sioux City
+252,354208,IA,Iowa,Waterloo
+253,355020,KS,Kansas,Kansas City
+254,356830,KS,Kansas,Lawrence
+255,357390,KS,Kansas,Olathe
+256,358230,KS,Kansas,Overland Park
+257,359651,KS,Kansas,Topeka
+258,360806,KS,Kansas,Wichita
+259,363933,KY,Kentucky,Lexington
+260,366204,KY,Kentucky,Louisville
+261,371460,LA,Louisiana,Baton Rouge
+262,373342,LA,Louisiana,Kenner
+263,373940,LA,Louisiana,Lafayette
+264,374956,LA,Louisiana,Lake Charles
+265,375628,LA,Louisiana,New Orleans
+266,380422,LA,Louisiana,Shreveport
+267,382300,ME,Maine,Portland
+268,382951,MD,Maryland,Baltimore
+269,388606,MA,Massachusetts,Boston
+270,393433,MA,Massachusetts,Brockton
+271,393970,MA,Massachusetts,Cambridge
+272,395165,MA,Massachusetts,Fall River
+273,395929,MA,Massachusetts,Lawrence
+274,396489,MA,Massachusetts,Lowell
+275,397245,MA,Massachusetts,Lynn
+276,397917,MA,Massachusetts,New Bedford
+277,398232,MA,Massachusetts,Newton
+278,399401,MA,Massachusetts,Quincy
+279,400017,MA,Massachusetts,Somerville
+280,400577,MA,Massachusetts,Springfield
+281,400945,MA,Massachusetts,Worcester
+282,402933,MI,Michigan,Ann Arbor
+283,404006,MI,Michigan,Dearborn
+284,404734,MI,Michigan,Detroit
+285,413069,MI,Michigan,Farmington Hills
+286,413225,MI,Michigan,Flint
+287,414944,MI,Michigan,Grand Rapids
+288,416456,MI,Michigan,Kalamazoo
+289,417148,MI,Michigan,Lansing
+290,418452,MI,Michigan,Livonia
+291,419376,MI,Michigan,Rochester Hills
+292,419992,MI,Michigan,Southfield
+293,420669,MI,Michigan,Sterling Heights
+294,421502,MI,Michigan,Troy
+295,422174,MI,Michigan,Warren
+296,423427,MI,Michigan,Westland
+297,424127,MI,Michigan,Wyoming
+298,424624,MN,Minnesota,Bloomington
+299,425268,MN,Minnesota,Brooklyn Park
+300,425688,MN,Minnesota,Duluth
+301,426751,MN,Minnesota,Minneapolis
+302,429978,MN,Minnesota,Plymouth
+303,430287,MN,Minnesota,Rochester
+304,431423,MN,Minnesota,St. Paul
+305,433747,MS,Mississippi,Gulfport
+306,434414,MS,Mississippi,Jackson
+307,435976,MO,Missouri,Columbia
+308,436704,MO,Missouri,Independence
+309,437618,MO,Missouri,Kansas City
+310,442243,MO,Missouri,Lee's Summit
+311,443030,MO,Missouri,O'Fallon
+312,443694,MO,Missouri,St. Joseph
+313,444422,MO,Missouri,St. Louis
+314,447446,MO,Missouri,Springfield
+315,449004,MT,Montana,Billings
+316,449840,MT,Montana,Missoula
+317,450344,NE,Nebraska,Lincoln
+318,452409,NE,Nebraska,Omaha
+319,456560,NV,Nevada,Henderson
+320,458515,NV,Nevada,Las Vegas
+321,462934,NV,Nevada,North Las Vegas
+322,464360,NV,Nevada,Reno
+323,466419,NV,Nevada,Sparks
+324,467199,NH,New Hampshire,Manchester
+325,468063,NH,New Hampshire,Nashua
+326,468627,NJ,New Jersey,Camden
+327,469215,NJ,New Jersey,Clifton
+328,469719,NJ,New Jersey,Elizabeth
+329,470498,NJ,New Jersey,Jersey City
+330,472373,NJ,New Jersey,Newark
+331,474897,NJ,New Jersey,Passaic
+332,475165,NJ,New Jersey,Paterson
+333,476325,NJ,New Jersey,Trenton
+334,477080,NJ,New Jersey,Union City
+335,477640,NM,New Mexico,Albuquerque
+336,481494,NM,New Mexico,Las Cruces
+337,482388,NM,New Mexico,Rio Rancho
+338,482946,NM,New Mexico,Santa Fe
+339,483913,NY,New York,Albany
+340,484697,NY,New York,Buffalo
+341,486959,NY,New York,Mount Vernon
+342,487575,NY,New York,New Rochelle
+343,488051,NY,New York,New York
+344,500166,NY,New York,Rochester
+345,550325,NY,New York,Schenectady
+346,550941,NY,New York,Syracuse
+347,552562,NY,New York,Yonkers
+348,554046,NC,North Carolina,Asheville
+349,554380,NC,North Carolina,Cary
+350,556218,NC,North Carolina,Charlotte
+351,561691,NC,North Carolina,Concord
+352,561823,NC,North Carolina,Durham
+353,564367,NC,North Carolina,Gastonia
+354,564385,NC,North Carolina,Fayetteville
+355,564616,NC,North Carolina,Greenville
+356,564815,NC,North Carolina,Jacksonville
+357,565030,NC,North Carolina,Raleigh
+358,566997,NC,North Carolina,Greensboro
+359,570077,NC,North Carolina,High Point
+360,574300,NC,North Carolina,Wilmington
+361,574365,ND,North Dakota,Fargo
+362,575291,NC,North Carolina,Winston-Salem
+363,578107,OH,Ohio,Akron
+364,580059,OH,Ohio,Canton
+365,580948,OH,Ohio,Cincinnati
+366,581138,OH,Ohio,Parma
+367,581161,OR,Oregon,Bend
+368,584305,OH,Ohio,Cleveland
+369,589286,OH,Ohio,Columbus
+370,595934,OH,Ohio,Dayton
+371,598439,OH,Ohio,Toledo
+372,601267,OH,Ohio,Youngstown
+373,602219,OK,Oklahoma,Broken Arrow
+374,603380,OK,Oklahoma,Edmond
+375,603594,OK,Oklahoma,Lawton
+376,604900,OK,Oklahoma,Norman
+377,605792,OK,Oklahoma,Oklahoma City
+378,611753,OK,Oklahoma,Tulsa
+379,615751,OR,Oregon,Beaverton
+380,617029,OR,Oregon,Eugene
+381,618313,OR,Oregon,Gresham
+382,619069,OR,Oregon,Hillsboro
+383,619793,OR,Oregon,Medford
+384,620461,OR,Oregon,Portland
+385,624983,OR,Oregon,Salem
+386,626152,PA,Pennsylvania,Allentown
+387,626936,PA,Pennsylvania,Bethlehem
+388,627496,PA,Pennsylvania,Erie
+389,628392,PA,Pennsylvania,Philadelphia
+390,629610,PA,Pennsylvania,Pittsburgh
+391,642817,PA,Pennsylvania,Reading
+392,643732,PA,Pennsylvania,Scranton
+393,644544,RI,Rhode Island,Cranston
+394,645076,RI,Rhode Island,Pawtucket
+395,645720,RI,Rhode Island,Providence
+396,646867,RI,Rhode Island,Warwick
+397,647537,SC,South Carolina,Charleston
+398,648821,SC,South Carolina,Columbia
+399,650707,SC,South Carolina,Rock Hill
+400,650747,SC,South Carolina,Mount Pleasant
+401,650963,SC,South Carolina,North Charleston
+402,652668,SD,South Dakota,Rapid City
+403,653283,SD,South Dakota,Sioux Falls
+404,654428,TN,Tennessee,Chattanooga
+405,656037,TN,Tennessee,Clarksville
+406,657091,TN,Tennessee,Knoxville
+407,659326,TN,Tennessee,Memphis
+408,664137,TX,Texas,Killeen
+409,664163,TX,Texas,Baytown
+410,664323,TN,Tennessee,Nashville
+411,664528,TN,Tennessee,Murfreesboro
+412,669729,TX,Texas,Abilene
+413,670841,TX,Texas,Allen
+414,671205,TX,Texas,Amarillo
+415,672801,TX,Texas,Arlington
+416,674901,TX,Texas,Austin
+417,681277,TX,Texas,Beaumont
+418,682282,TX,Texas,Brownsville
+419,683757,TX,Texas,Bryan
+420,684261,TX,Texas,Carrollton
+421,685291,TX,Texas,College Station
+422,686071,TX,Texas,Corpus Christi
+423,688176,TX,Texas,Dallas
+424,697182,TX,Texas,Denton
+425,698093,TX,Texas,Edinburg
+426,698354,TX,Texas,El Paso
+427,702360,TX,Texas,Fort Worth
+428,707106,TX,Texas,Frisco
+429,708109,TX,Texas,Garland
+430,709628,TX,Texas,Grand Prairie
+431,710824,TX,Texas,Houston
+432,727593,TX,Texas,Irving
+433,730006,TX,Texas,Laredo
+434,731709,TX,Texas,League City
+435,732155,TX,Texas,Lewisville
+436,733107,TX,Texas,Longview
+437,733774,TX,Texas,Lubbock
+438,735510,TX,Texas,McAllen
+439,736299,TX,Texas,McKinney
+440,737201,TX,Texas,Mesquite
+441,738207,TX,Texas,Midland
+442,738986,TX,Texas,Mission
+443,739486,TX,Texas,Missouri City
+444,740042,TX,Texas,Odessa
+445,740770,TX,Texas,Pasadena
+446,741828,TX,Texas,Pearland
+447,742304,TX,Texas,Pharr
+448,742496,TX,Texas,Plano
+449,744292,TX,Texas,Richardson
+450,745048,TX,Texas,Round Rock
+451,745801,TX,Texas,San Angelo
+452,746497,TX,Texas,San Antonio
+453,748230,UT,Utah,Ogden
+454,755643,TX,Texas,Sugar Land
+455,756256,TX,Texas,Tyler
+456,757090,TX,Texas,Waco
+457,758227,TX,Texas,Wichita Falls
+458,759150,UT,Utah,Layton
+459,760543,UT,Utah,Orem
+460,761266,UT,Utah,Provo
+461,762149,UT,Utah,St. George
+462,762597,UT,Utah,Salt Lake City
+463,764239,UT,Utah,Sandy
+464,765103,UT,Utah,West Jordan
+465,765775,UT,Utah,West Valley City
+466,766580,VT,Vermont,Burlington
+467,766944,VA,Virginia,Alexandria
+468,768064,VA,Virginia,Chesapeake
+469,769268,VA,Virginia,Hampton
+470,770248,VA,Virginia,Lynchburg
+471,770836,VA,Virginia,Newport News
+472,772110,VA,Virginia,Norfolk
+473,774387,VA,Virginia,Portsmouth
+474,775306,VA,Virginia,Richmond
+475,777210,VA,Virginia,Roanoke
+476,777910,VA,Virginia,Suffolk
+477,778750,VA,Virginia,Virginia Beach
+478,781499,WA,Washington,Auburn
+479,782189,WA,Washington,Bellevue
+480,783075,WA,Washington,Bellingham
+481,783607,WA,Washington,Everett
+482,784444,WA,Washington,Federal Way
+483,785055,WA,Washington,Kennewick
+484,785503,WA,Washington,Kent
+485,786203,WA,Washington,Renton
+486,786986,WA,Washington,Seattle
+487,790794,WA,Washington,Spokane
+488,792528,WA,Washington,Spokane Valley
+489,793037,WA,Washington,Tacoma
+490,794849,WA,Washington,Vancouver
+491,796351,WA,Washington,Yakima
+492,797022,WV,West Virginia,Charleston
+493,797745,WI,Wisconsin,Appleton
+494,798505,WI,Wisconsin,Green Bay
+495,799401,WI,Wisconsin,Kenosha
+496,800239,WI,Wisconsin,Madison
+497,802187,WI,Wisconsin,Milwaukee
+498,808234,WI,Wisconsin,Racine
+499,808959,WI,Wisconsin,Waukesha
+500,809599,WY,Wyoming,Cheyenne

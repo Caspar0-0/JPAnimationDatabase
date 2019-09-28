@@ -1,0 +1,45 @@
+<html>
+  <style>
+    body{
+      font-size: 13pt;
+      font-family: arial;
+    }
+  </style>
+
+<body>
+  <h1>Search For Animes</h1>
+
+  <form method="post" action="anime_search_result">
+
+  <p>Date of Creation: From <input type="date" name="startdate"> Until <input type="date" name="enddate"> </p>
+
+  <p>Airing?: <input type="radio" name="air" value="yes" checked> Yes
+  <input type="radio" name="air" value="no"> No
+  <input type="radio" name="air" value="both"> Either  </p>
+
+  <p>Anime Producer and Licensor: </p>
+      <select name="producer" size="4" multiple required>
+      <option value="All" selected>All Producers</option>
+      <option value="David Production">David Production</option>
+      <option value="Gonzo">Gonzo</option>
+      <option value="Satelight">Satelight</option>
+      <option value="Hal Film Maker">Hal Film Maker</option>
+      <option value="J.C.Staff">J.C.Staff</option>
+      <option value="Production Reed">Production Reed</option>
+      </select>
+
+      <select name="licensor" size="4" multiple required>
+      <option value="All" selected>All Licensors</option>
+      <option value="Sentai Filmworks">Sentai Filmworks</option>
+      <option value="ADV Films">ADV Films</option>
+      <option value="Discotek Media">Discotek Media</option>
+      <option value="Funimation">Funimation</option>
+      </select>
+
+    <p> <button type="submit">Search</button></p> <input type="reset">  </p>
+
+    <p> <a href='/'>Back to Main Page </a></p>
+
+</form>
+</body>
+</html>

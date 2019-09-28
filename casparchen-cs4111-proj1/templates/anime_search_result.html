@@ -1,0 +1,33 @@
+<html>
+<body>
+
+<h2> Anime Search Results </h2>
+
+{% for n in animeOutput %}
+  {{n}}
+  <div style="display:none">
+  <p id="{{n+n+'1'}}">{{anime_score[n]}}</p>
+  <p id="{{n+n+'2'}}">{{anime_sub[n]}}</p>
+  <p id="{{n+n+'3'}}">{{anime_view[n]}}</p>
+  </div>
+  <button onclick="var s1 = document.getElementById('{{n+n+'1'}}').innerHTML;
+  var s2 = document.getElementById('{{n+n+'2'}}').innerHTML;
+  var s3 = document.getElementById('{{n+n+'3'}}').innerHTML;
+   document.getElementById('{{n}}').innerHTML =
+   'Score: '+s1 + ', Subscriptions: ' + s2+ ', Number of Viewed: ' + s3
+   ">Show Stats</button>
+   <button onclick="document.getElementById('{{n}}').innerHTML = ''">Hide Stats</button>
+  <p id="{{n}}"> </p>
+{% endfor %}
+
+<br>
+<p> Anime Statistics: </p>
+<p> Average Score:  {{avg_score}}</p>
+<p> Average Subscription:  {{avg_sub}}</p>
+<p> Average Viewing Frequency:  {{avg_num_viewed}}</p>
+
+
+<p><a href="/anime">Search Again</a></p>
+
+</body>
+</html>

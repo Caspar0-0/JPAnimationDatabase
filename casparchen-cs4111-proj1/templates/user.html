@@ -1,0 +1,55 @@
+
+<html>
+  <style>
+    body{ 
+      font-size: 15pt;
+      font-family: arial;
+    }
+  </style>
+
+
+<body>
+  <h1>Search For User Infos</h1>
+  <form method = 'post' action="result2">
+  <p>Look for the number of users that satisfy the following: </p>
+  Country: (Check one from below)<br>
+  <input type="radio" name="country" value="China" checked> China<br>
+  <input type="radio" name="country" value="US"> US<br>
+  <input type="radio" name="country"" value="Japan"> Japan <br>
+  <input type="radio" name="country"" value="All"> Any
+
+
+  <p>
+    Gender: 
+    <input type="radio" name="gender" value="F"> Female 
+    <input type="radio" name="gender" value="M"> Male 
+    <input type="radio" name="gender" value="All" checked> Either
+  </p>
+
+  <p>
+    BirthDate: From <input type="date" name="birth1"> Until <input type="date" name="birth2">
+  </p>
+
+  <br>
+  <p>
+    Anime Preferences: Airing?: 
+    <input type="radio" name="air" value="True"> Yes
+    <input type="radio" name="air" value="False"> No
+    <input type="radio" name="air" value="All" checked> Either
+    <br>
+    Access since: <input type="date" name="access_date">
+  </p>
+
+
+  <p> <button type="submit">Search</button>
+  <button type="reset">Reset</button>
+  </p>
+ </form>
+
+  <p id="ans"> {{num_user}} {{avg_anime}} </p>
+
+<br>
+<p><a href="/">Back To Main Page</a></p>
+
+</body>
+</html>

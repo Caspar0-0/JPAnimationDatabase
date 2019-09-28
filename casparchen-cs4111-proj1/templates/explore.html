@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+  <style>
+    body{
+      font-size: 15pt;
+      font-family: arial;
+    }
+  </style>
+
+<body>
+<div style="display:none">
+<p id="1">{% for n in data1 %} {{n}} <br> {% endfor %}</p>
+<p id="2">{% for n in data2 %} {{n}} <br> {% endfor %}</p>
+<p id="3">{% for n in data3 %} {{n}} <br> {% endfor %}</p>
+</div>
+
+
+	<h2> Modern Japanese Animes Popularity Database <br></h2>
+	<p>
+	Some interesting SQL queries:<br><br>
+	1. Find the titles of all animes that are created after 2008-11-11 whose studio is Satelight or whose licensor is Funimation?
+	<button onclick="myFunction1()">Result</button></p>
+	<p id="demo1"></p>
+	<p>2. Count the users who watch animes that are not on air anymore?
+	<button onclick="myFunction2()">Result</button></p>
+	<p id="demo2"></p>
+	<p>3. Find the average score of animes watched by over 10k people?
+	<button onclick="myFunction3()">Result</button></p>
+	<p id="demo3"></p>
+
+<p> <a href="/">Back To Main Page </a></p>
+
+	<script>
+  var k1 = 0;
+  var k2 = 0;
+  var k3 = 0;
+	function myFunction1() {
+      k1 = (k1 + 1) % 2;
+      if (k1 == 1) {
+    	   var x = document.getElementById("1").innerHTML;
+    	   document.getElementById("demo1").innerHTML = x;
+      } else {
+         document.getElementById("demo1").innerHTML = '';
+      }
+	}
+	function myFunction2() {
+      k2 = (k2 + 1) % 2;
+      if (k2 == 1) {
+    	   var x = document.getElementById("2").innerHTML;
+    	    document.getElementById("demo2").innerHTML = x;
+      } else {
+          document.getElementById("demo2").innerHTML = '';
+      }
+	}
+	function myFunction3() {
+      k3 = (k3 + 1) % 2;
+      if (k3 == 1) {
+    	   var x = document.getElementById("3").innerHTML;
+    	    document.getElementById("demo3").innerHTML = x;
+      } else {
+          document.getElementById("demo3").innerHTML = '';
+      }
+	}
+	</script>
+</body>
+
+</html>
